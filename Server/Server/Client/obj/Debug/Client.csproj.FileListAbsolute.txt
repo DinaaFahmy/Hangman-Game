@@ -1,0 +1,5 @@
+C:\Users\Abanob\Desktop\Main Server\Client\bin\Debug\Client.exe.config
+C:\Users\Abanob\Desktop\Main Server\Client\bin\Debug\Client.exe
+C:\Users\Abanob\Desktop\Main Server\Client\bin\Debug\Client.pdb
+C:\Users\Abanob\Desktop\Main Server\Client\obj\Debug\Client.exe
+C:\Users\Abanob\Desktop\Main Server\Client\obj\Debug\Client.pdb

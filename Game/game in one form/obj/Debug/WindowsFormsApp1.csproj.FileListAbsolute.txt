@@ -1,0 +1,9 @@
+H:\c#project\new\part2\test-client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\c#project\new\part2\test-client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\c#project\new\part2\test-client\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\c#project\new\part2\test-client\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

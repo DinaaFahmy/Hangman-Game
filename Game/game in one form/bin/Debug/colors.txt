@@ -1,0 +1,7 @@
+blue
+red
+bink
+black
+white
+yellow
+orange

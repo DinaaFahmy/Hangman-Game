@@ -1,0 +1,6 @@
+apple
+orange
+egg
+banana
+chicken
+potato
